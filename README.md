@@ -54,3 +54,6 @@ A continuación se describen la variables utilizadas en el DataSet
 |	ESTADO_CLIENTE_TX	|	Indica el estado actual del cliente	|
 |	SCORE_INTERNO	|	Variable que indica el riesgo previsto por variables interna de la organizacion. A mayor riesgo, mayor probabilidad de cancelacion	|
 |	SCORE_EXTERNO	|	Variable que indica el riesgo previsto por variables externas de la organizacion. A mayor riesgo, mayor probabilidad de cancelacion	|
+
+
+PRUEBA
