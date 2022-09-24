@@ -55,5 +55,3 @@ A continuación se describen la variables utilizadas en el DataSet
 |	SCORE_INTERNO	|	Variable que indica el riesgo previsto por variables interna de la organizacion. A mayor riesgo, mayor probabilidad de cancelacion	|
 |	SCORE_EXTERNO	|	Variable que indica el riesgo previsto por variables externas de la organizacion. A mayor riesgo, mayor probabilidad de cancelacion	|
 
-
-PRUEBA
